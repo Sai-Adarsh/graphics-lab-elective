@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609949908 source:c:\users\saiadarsh\desktop\college\sem8\graphics\graphics_test\bresenham_circle.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
