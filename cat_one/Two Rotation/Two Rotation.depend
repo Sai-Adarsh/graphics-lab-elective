@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616001048 source:c:\users\saiadarsh\desktop\college\sem8\graphics\cat_one\two rotation\rotation.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
